@@ -17,6 +17,7 @@ body {
 }
 
 .header__title {
+  color: #006400;
   margin: 30px 0 10px 0;
   font-size: 32px;
   line-height: 1.2;
@@ -24,7 +25,7 @@ body {
 }
 
 .header__subtitle {
-  color: #8f8f8f;
+  color: #FF4500;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
